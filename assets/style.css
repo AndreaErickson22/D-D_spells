@@ -1,0 +1,34 @@
+body {
+  font-weight: 1000;
+  font-family: 'Playfair Display', serif, bold;
+  background-color: darkgrey;
+  margin: 0;
+
+}
+h1{
+  font-weight: 2000;
+  
+}
+#active-spell{
+  overflow-y: scroll;
+  border: 2px solid black;
+  padding: 10px;
+  height: 700;
+  background-color: white;
+}
+#api-spells{
+  overflow-y: scroll;
+  border: 2px solid black;
+  padding: 10px;
+  height: 700px;
+}
+#my-spellbook{
+   overflow-y: scroll;
+  border: 2px solid black;
+  padding: 10px;
+  height: 700;
+}
+.card{
+  border: 3px solid black;
+
+}
